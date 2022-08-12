@@ -1,0 +1,10 @@
+#tugas praktikum
+
+soal_no = input ("masukkan no")
+nama_depan =input ("masukkan nama depan:")
+nama_belakang =input ("masukkkan nama belakang")
+nama_anda = input ("masukkan nama nama_anda")
+soal_no = input ("masukkkan no")
+celcius = int(input("masukkan suhu celcius"))
+reamur = (4/5 *celcius)
+print (celcius,"celcius adalah",reamur,"reamur")
